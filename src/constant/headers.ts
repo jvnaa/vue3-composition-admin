@@ -6,6 +6,7 @@
  * @LastEditTime: 2020-12-08 11:47:10
  */
 
+// test
 export enum ContentType{
     FORM = 'application/x-www-form-urlencoded',
     JSON = 'application/json; charset=utf-8'
